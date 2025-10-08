@@ -71,7 +71,6 @@ namespace Assignment1.Expressions
 
         // Returns the precedence level of an operator.
         // Higher numbers indicate higher precedence.
-        
         private int GetPrecedence(char op)
         {
             switch (op)
@@ -90,8 +89,7 @@ namespace Assignment1.Expressions
         }
        
         // Helper method: Checks if an operator is right-associative.
-        // Only exponentiation (^) is right-associative; all others are left-associative.
-        
+        // Only exponentiation (^) is right-associative; all others are left-associative. 
         private bool IsRightAssociative(char op)
         {
             return op == '^'; // Only exponentiation is right-associative
