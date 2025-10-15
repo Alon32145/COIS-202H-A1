@@ -1,8 +1,8 @@
-﻿// Asssignment 1 COIS 2020H
+﻿// Assignment 1 COIS 2020H
 // Group Members:
 // Alon Raigorodetsky ID: 0827093    Email: alonraigorodetsky@trentu.ca
 // Edidiong Jairus    ID: 0866074    Email: Edidiongjairus@trentu.ca
-
+// Reuben da Silva Freitas Filho ID: 0820206    Email:rdasivlafreitasfilho@trentu.ca
 
 
 using Assignment1.Expressions;
