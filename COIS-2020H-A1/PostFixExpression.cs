@@ -1,4 +1,12 @@
-﻿using System;
+﻿// Asssignment 1 COIS 2020H
+// Group Members:
+// Alon Raigorodetsky ID: 0827093    Email: alonraigorodetsky@trentu.ca
+// Edidiong Jairus    ID: 0866074    Email: Edidiongjairus@trentu.ca
+
+
+
+
+using System;
 using System.Collections.Generic;
 
 namespace Assignment1.Expressions
